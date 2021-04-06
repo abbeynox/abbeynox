@@ -20,7 +20,9 @@
 - HTML/CSS
 - Javascript
 
+### Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiseryao&layout=compact)](https://github.com/kaiseryao/github-readme-stats)
 
 [discord]: https://discord.gg/YS84Gq5
 [Twitter]: https://twitter.com/KaiserYao
