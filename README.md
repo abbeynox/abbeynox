@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on a Discord Bot
 - 🌱 I’m currently learning Java
 - 💬 Ask me about Python 
-- 📫 How to reach me: Discord -> Toxy#3382
+- 📫 How to reach me: Discord (Toxy#3382), Twitter (@KaiserYao), Email (mail@ywk.ch)
 
 ### Other Social Media
 [<img align="left" alt="Discord" width="25px" src="https://user-images.githubusercontent.com/74461477/113577871-3e1bdd00-9622-11eb-82ce-372ae22d61c5.png"/>][discord]
