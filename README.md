@@ -10,9 +10,9 @@
 - 📫 How to reach me: Discord (Toxy#3382), Twitter (@KaiserYao), Email (mail@ywk.ch)
 
 ### Other Social Media
-[<img align="left" alt="Discord" width="25px" src=""/>][discord]
-[<img align="left" alt="Twitter" width="25px" src=""/>][twitter]
-[<img align="left" alt="Instagram" width="25px" src=""/>][instagram]
+[<img align="left" alt="Discord" width="25px" src="discord"/>][discord]
+[<img align="left" alt="Twitter" width="25px" src="twitter"/>][twitter]
+[<img align="left" alt="Instagram" width="25px" src="instagram"/>][instagram]
 
 <br>
 
