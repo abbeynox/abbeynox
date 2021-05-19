@@ -20,6 +20,8 @@
 - Python
 - HTML/CSS
 - Javascript
+- Node.js
+- C#
 
 ### Stats
 
