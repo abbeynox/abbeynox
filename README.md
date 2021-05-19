@@ -1,17 +1,18 @@
+
 ## Hi there, I'm Yao aka. Toxy 👋
 <!-- [![alt text][1.1]][1]-->
 
 
 - 🖥 I'm a Python/JS developer
-- 🔭 I’m currently working on a Discord Bot
+- 🔭 I’m currently working on a Mobile Game
 - 🌱 I’m currently learning C#
-- 💬 Ask me about Python 
+- 💬 Ask me about Python and HTML/CSS
 - 📫 How to reach me: Discord (Toxy#3382), Twitter (@KaiserYao), Email (mail@ywk.ch)
 
 ### Other Social Media
 [<img align="left" alt="Discord" width="25px" src=""/>][discord]
 [<img align="left" alt="Twitter" width="25px" src=""/>][twitter]
-[<img align="left" alt="YouTube" width="25px" src=""/>][youtube]
+[<img align="left" alt="Instagram" width="25px" src=""/>][instagram]
 
 <br>
 
@@ -26,11 +27,11 @@
 
 [discord]: https://discord.gg/YS84Gq5
 [Twitter]: https://twitter.com/KaiserYao
-[youtube]: https://www.youtube.com/channel/UCOq1228qgZMQrN6a9TRjGcg
+[instagram]: https://instagram.com/yaokaiser_
 
 
 <!--
-![001-discord](https://user-images.githubusercontent.com/74461477/113577871-3e1bdd00-9622-11eb-82ce-372ae22d61c5.png)
-![002-twitter](https://user-images.githubusercontent.com/74461477/113577904-4d028f80-9622-11eb-9e3e-3ce07768bff7.png)
-![003-youtube](https://user-images.githubusercontent.com/74461477/113577922-57248e00-9622-11eb-90dd-b75cd891fa67.png)
+![discord](https://user-images.githubusercontent.com/74461477/118860715-05874880-b8dc-11eb-8223-08ca60860c9f.png)
+![twitter](https://user-images.githubusercontent.com/74461477/118860724-07e9a280-b8dc-11eb-8b2a-07d4fa59bd23.png)
+![instagram](https://user-images.githubusercontent.com/74461477/118860729-091acf80-b8dc-11eb-975f-c5c962ffcd87.png)
 -->
