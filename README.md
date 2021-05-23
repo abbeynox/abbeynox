@@ -1,5 +1,5 @@
 
-## Hi there, I'm Yao aka. Toxy 👋
+## Hey, I'm [Yao](https://ywk.ch) aka. Toxy 👋
 <!-- [![alt text][1.1]][1]-->
 
 
@@ -16,12 +16,11 @@
 
 <br>
 
-### Languages I use
+### Experience with
 - Python
-- HTML/CSS
-- Javascript
-- Node.js
-- C#
+- HTML, CSS
+- Javascript, Node
+- MongoDB
 
 ### Stats
 
