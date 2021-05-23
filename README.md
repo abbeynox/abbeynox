@@ -28,8 +28,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiseryao&layout=compact)](https://github.com/kaiseryao/github-readme-stats)
 
 [discord]: https://discord.gg/YS84Gq5
-[Twitter]: https://twitter.com/KaiserYao
-[instagram]: https://instagram.com/yaokaiser_
+[Twitter]: https://twitter.com/YaoDev
+[instagram]: https://instagram.com/yao.dev
 
 
 <!--
