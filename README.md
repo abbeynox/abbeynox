@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a Mobile Game
 - 🌱 I’m currently learning C#
 - 💬 Ask me about Python and HTML/CSS
-- 📫 How to reach me: Discord (Toxy#3382), Twitter (@KaiserYao), Email (mail@ywk.ch)
+- 📫 How to reach me: Discord (Toxy#3382), Twitter ([YaoDev](https://twitter.com/YaoDev)), Email ([mail@ywk.ch](mailto:mail@ywk.ch))
 
 ### Other Social Media
 [<img align="left" alt="Discord" width="25px" src="https://user-images.githubusercontent.com/74461477/118860715-05874880-b8dc-11eb-8223-08ca60860c9f.png"/>][discord]
