@@ -3,7 +3,7 @@
 <!-- [![alt text][1.1]][1]-->
 
 
-- 🖥 I'm a Python/JS developer
+- 🖥 I'm a Python/Javascript developer
 - 🔭 I’m currently working on a Mobile Game
 - 🌱 I’m currently learning C#
 - 💬 Ask me about Python and HTML/CSS
