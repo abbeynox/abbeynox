@@ -3,14 +3,15 @@
 <!-- [![alt text][1.1]][1]-->
 
 
-- 🖥 I'm a Python/Javascript developer
+- 🖥 I'm a web developer
 - 🔭 I’m currently working on a Mobile Game
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning web dev languages
 - 💬 Ask me about Python and HTML/CSS
 - 📫 How to reach me: Discord (Toxy#9999), Twitter ([@YaoDev](https://twitter.com/YaoDev)), Email ([mail@ywk.ch](mailto:mail@ywk.ch))
 
 ### Other Social Media
-[https://discord.c99.nl/widget/theme-4/649332192119357460.png](https://rexstudios.ch/dc)
+[![](https://discord.c99.nl/widget/theme-4/649332192119357460.png)](https://discord.gg/tytnYxnT)
+
 
 [<img align="left" alt="Discord" width="25px" src="https://user-images.githubusercontent.com/74461477/118860715-05874880-b8dc-11eb-8223-08ca60860c9f.png"/>][discord]
 [<img align="left" alt="Twitter" width="25px" src="https://user-images.githubusercontent.com/74461477/118860724-07e9a280-b8dc-11eb-8b2a-07d4fa59bd23.png"/>][twitter]
