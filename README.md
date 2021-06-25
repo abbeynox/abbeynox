@@ -10,6 +10,8 @@
 - 📫 How to reach me: Discord (Toxy#9999), Twitter ([@YaoDev](https://twitter.com/YaoDev)), Email ([mail@ywk.ch](mailto:mail@ywk.ch))
 
 ### Other Social Media
+[https://discord.c99.nl/widget/theme-4/649332192119357460.png](https://rexstudios.ch/dc)
+
 [<img align="left" alt="Discord" width="25px" src="https://user-images.githubusercontent.com/74461477/118860715-05874880-b8dc-11eb-8223-08ca60860c9f.png"/>][discord]
 [<img align="left" alt="Twitter" width="25px" src="https://user-images.githubusercontent.com/74461477/118860724-07e9a280-b8dc-11eb-8b2a-07d4fa59bd23.png"/>][twitter]
 [<img align="left" alt="Instagram" width="25px" src="https://user-images.githubusercontent.com/74461477/118862603-34062300-b8de-11eb-8cfd-3344eff3c429.png"/>][instagram]
