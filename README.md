@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a blog website.
 - 🌱 I’m currently learning Typescript 
 - 💬 Ask me about JS and HTML/CSS
-- 📫 How to reach me: Discord ([Toxy#0816](https://discord.com/users/649332192119357460)), Twitter ([@YaoDev](https://twitter.com/YaoDev)), Email ([yao@ywk.ch](mailto:yao@ywk.ch))
+- 📫 How to reach me: Discord ([Toxy#0816](https://discord.com/users/649332192119357460)), Twitter ([@yaokaiser_](https://twitter.com/yaokaiser_)), Email ([yao@ywk.ch](mailto:yao@ywk.ch))
 
 ---
 
@@ -77,5 +77,5 @@
 ![twitter](https://user-images.githubusercontent.com/74461477/125820562-2e7cf54d-355b-4ce4-a95b-072fc76799ec.png)-->
 
 [discord]: https://discord.com/users/649332192119357460
-[Twitter]: https://twitter.com/YaoDev
-[instagram]: https://instagram.com/yao.dev
+[Twitter]: https://twitter.com/yaokaiser_
+[instagram]: https://instagram.com/yaokaiser_
