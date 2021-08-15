@@ -1,5 +1,5 @@
 
-## Hey, I'm [Yao](https://ywk.ch) aka. Toxy 👋
+## Hey, I'm [Yao](https://ywk.ch) 👋
 <!-- [![alt text][1.1]][1]-->
 
 
