@@ -24,10 +24,16 @@
 ---
 
 ### ⌨️ Experience with
-- Python
-- HTML, CSS
-- Javascript, Node, Vue
+- Python (Flask)
+- HTML, CSS (Bootstrap, TailwindCSS)
+- Javascript, Node.js, Vue.js (Express)
 - MongoDB
+
+---
+
+### 📚 Currently learning
+- TypeScript
+- C#
 
 ---
 
