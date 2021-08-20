@@ -1,5 +1,5 @@
 
-## Hey, I'm [Yao](https://ywk.ch) 👋
+## Hey, I'm [Yao](https://yaokaiser.ch) 👋
 <!-- [![alt text][1.1]][1]-->
 
 
@@ -32,6 +32,7 @@
 ---
 
 ### 📚 Currently learning
+- SQL
 - TypeScript
 - C#
 
