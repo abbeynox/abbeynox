@@ -32,7 +32,7 @@
 ---
 
 ### 📚 Currently learning
-- SQL
+- SQL (PostgreSQL)
 - TypeScript
 - C#
 
