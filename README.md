@@ -12,6 +12,9 @@
 ---
 
 ### 📱 Other Social Media
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/649332192119357460)](https://discord.com/users/649332192119357460)
+
 [![](https://discord.c99.nl/widget/theme-4/649332192119357460.png)](https://discord.com/users/649332192119357460)
 
 
