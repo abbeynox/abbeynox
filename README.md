@@ -13,9 +13,9 @@
 
 ### 📱 Other Social Media
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/649332192119357460)](https://discord.com/users/649332192119357460)
+<img align='right' src="https://lanyard-profile-readme.vercel.app/api/649332192119357460?bg=00000000">
 
-[![](https://discord.c99.nl/widget/theme-4/649332192119357460.png)](https://discord.com/users/649332192119357460)
+<!-- [![](https://discord.c99.nl/widget/theme-4/649332192119357460.png)](https://discord.com/users/649332192119357460)-->
 
 
 [<img align="left" alt="Discord" width="25px" src="https://user-images.githubusercontent.com/74461477/125820556-58470afc-206e-4b9b-8684-1707e637c253.png"/>][discord]
