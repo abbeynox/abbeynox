@@ -5,7 +5,7 @@
 
 - 🖥 I'm a web developer
 - 🔭 I’m currently working on a blog website.
-- 🌱 I’m currently learning Vue.js 
+- 🌱 I’m currently learning Java
 - 💬 Ask me about JS and HTML/CSS
 - 📫 How to reach me: Discord ([Toxy#0816](https://discord.com/users/649332192119357460)), Twitter ([@yaokaiser_](https://twitter.com/yaokaiser_)), Email ([yao@ywk.ch](mailto:yao@ywk.ch))
 
@@ -28,14 +28,14 @@
 ### ⌨️ Experience with
 - Python (Flask)
 - HTML, CSS (Bootstrap, TailwindCSS)
-- Javascript, Node.js, Vue.js (Express)
+- Javascript, Typescript, Node.js, Vue.js (Express)
 - MongoDB
 
 ---
 
 ### 📚 Currently learning
 - SQL (PostgreSQL)
-- TypeScript
+- Java
 - C#
 
 ---
