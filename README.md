@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a blog website.
 - 🌱 I’m currently learning Java
 - 💬 Ask me about JS and HTML/CSS
-- 📫 How to reach me: Discord ([Toxy#0816](https://discord.com/users/649332192119357460)), Twitter ([@yaokaiser_](https://twitter.com/yaokaiser_)), Email ([yao@ywk.ch](mailto:yao@ywk.ch))
+- 📫 How to reach me: Discord ([Toxy#0816](https://discord.com/users/649332192119357460)), Twitter ([@KaiserYao](https://twitter.com/KaiserYao)), Email ([yao@ywk.ch](mailto:yao@ywk.ch))
 
 ---
 
@@ -36,7 +36,7 @@
 ### 📚 Currently learning
 - SQL (PostgreSQL)
 - Java
-- C#
+- TypeScript
 
 ---
 
@@ -48,7 +48,7 @@
     <li> <a href="https://code.visualstudio.com">Visual Studio Code</a> </li>
     <li> <a href="https://visualstudio.com">Visual Studio</a> </li>
     <li> <a href="https://www.jetbrains.com/de-de/pycharm/download/">PyCharm</a> </li>
-    <li> <a href="https://replit.com">Replit</a> </li>
+    <li> <a href="https://www.jetbrains.com/de-de/idea/">IntelliJ</a> </li>
   </p>
 </details>
 
@@ -86,5 +86,5 @@
 ![twitter](https://user-images.githubusercontent.com/74461477/125820562-2e7cf54d-355b-4ce4-a95b-072fc76799ec.png)-->
 
 [discord]: https://discord.com/users/649332192119357460
-[Twitter]: https://twitter.com/yaokaiser_
+[Twitter]: https://twitter.com/KaiserYao
 [instagram]: https://instagram.com/yaokaiser_
