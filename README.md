@@ -27,8 +27,9 @@
 
 ### ⌨️ Experience with
 - Python (Flask)
+- Java
 - HTML, CSS (Bootstrap, TailwindCSS)
-- Javascript, Typescript, Node.js, Vue.js (Express)
+- Javascript, Typescript, Node.js, Next.js, Vue.js (Express)
 - MongoDB
 
 ---
@@ -36,7 +37,7 @@
 ### 📚 Currently learning
 - SQL (PostgreSQL)
 - Java
-- TypeScript
+- TypeScript (+ Next.js Framework)
 
 ---
 
