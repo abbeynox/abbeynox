@@ -88,4 +88,4 @@
 
 [discord]: https://discord.com/users/649332192119357460
 [Twitter]: https://twitter.com/KaiserYao
-[instagram]: https://instagram.com/yaokaiser_
+[instagram]: https://instagram.com/yao.earth
