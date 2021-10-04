@@ -3,10 +3,10 @@
 <!-- [![alt text][1.1]][1]-->
 
 
-- 🖥 I'm a web developer
+- 🖥 I'm a Frontend Developer 
 - 🔭 I’m currently working on a blog website.
 - 🌱 I’m currently learning Java
-- 💬 Ask me about JS and HTML/CSS
+- 💬 Ask me about HTML/CSS/JS, Git and Python
 - 📫 How to reach me: Discord ([Toxy#0816](https://discord.com/users/649332192119357460)), Twitter ([@KaiserYao](https://twitter.com/KaiserYao)), Email ([yao@ywk.ch](mailto:yao@ywk.ch))
 
 ---
@@ -31,6 +31,7 @@
 - HTML, CSS (Bootstrap, TailwindCSS)
 - Javascript, Typescript, Node.js, Next.js, Vue.js (Express)
 - MongoDB
+- Git
 
 ---
 
