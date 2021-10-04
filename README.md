@@ -50,7 +50,7 @@
     <li> <a href="https://code.visualstudio.com">Visual Studio Code</a> </li>
     <li> <a href="https://visualstudio.com">Visual Studio</a> </li>
     <li> <a href="https://www.jetbrains.com/de-de/pycharm/download/">PyCharm</a> </li>
-    <li> <a href="https://www.jetbrains.com/de-de/idea/">IntelliJ</a> </li>
+    <li> <a href="https://www.jetbrains.com/de-de/idea/">IntelliJ IDEA</a> </li>
   </p>
 </details>
 
