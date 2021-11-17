@@ -3,10 +3,10 @@
 <!-- [![alt text][1.1]][1]-->
 
 
-- 🖥 I'm a Frontend Developer 
-- 🔭 I’m currently working on a shortcut practicer website
+- ✨ Pronouns: he/him
+- 🔭 I’m currently working on many things at the same time
 - 🌱 I’m currently learning Java
-- 💬 Ask me about HTML/CSS/JS, Git and Python
+- 💬 My DMs are open, so feel free to contact me trought Discord or Twitter
 - 📫 How to reach me: Discord ([Toxy#0816](https://discord.com/users/649332192119357460)), Twitter ([@KaiserYao](https://twitter.com/KaiserYao)), Email ([y@yao.earth](mailto:y@yao.earth))
 
 ---
@@ -92,5 +92,5 @@
 
 [discord]: https://discord.com/users/649332192119357460
 [Twitter]: https://twitter.com/KaiserYao
-[instagram]: https://instagram.com/yao.earth
+[instagram]: https://instagram.com/its_toxy_
 [linkedin]: https://linkedin.com/in/yaokaiser
