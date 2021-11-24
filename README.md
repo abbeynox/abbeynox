@@ -27,10 +27,10 @@
 ---
 
 ### ⌨️ Experience with
-- Python (Flask)
+- Python
 - Java
 - HTML, CSS (Bootstrap, TailwindCSS)
-- Javascript, Typescript, Node.js, Next.js, Vue.js (Express)
+- Javascript, Typescript, Node.js, Vue.js (Express)
 - MongoDB
 - Git
 
