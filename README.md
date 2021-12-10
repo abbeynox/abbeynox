@@ -14,7 +14,7 @@
 ### 📱 Other Social Media
 
 
-[![](https://discord.c99.nl/widget/theme-4/837766915539599401.png)](https://discord.com/users/649332192119357460)
+[![](https://discord.c99.nl/widget/theme-4/837766915539599401.png)](https://discord.com/users/837766915539599401)
 
 
 [<img align="left" alt="Discord" width="25px" src="https://user-images.githubusercontent.com/74461477/125820556-58470afc-206e-4b9b-8684-1707e637c253.png"/>][discord]
