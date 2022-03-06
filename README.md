@@ -19,7 +19,6 @@
 
 [<img align="left" alt="Discord" width="25px" src="https://user-images.githubusercontent.com/74461477/125820556-58470afc-206e-4b9b-8684-1707e637c253.png"/>][discord]
 [<img align="left" alt="Twitter" width="25px" src="https://user-images.githubusercontent.com/74461477/125820562-2e7cf54d-355b-4ce4-a95b-072fc76799ec.png"/>][twitter]
-[<img align="left" alt="Instagram" width="25px" src="https://user-images.githubusercontent.com/74461477/125820547-2c92c856-59b7-40ea-802c-796be8ee3c92.png"/>][instagram]
 [<img align="left" alt="Linkedin" width="25px" src="https://user-images.githubusercontent.com/74461477/139423303-d8791117-ba5a-4f5f-8f32-2f6c7f87047d.png"/>][linkedin]
 
 <br>
@@ -31,15 +30,15 @@
 - Java
 - HTML, CSS (Bootstrap, TailwindCSS)
 - Javascript, Typescript, Node.js, Vue.js (Express)
-- MongoDB
+- MariaDB, MongoDB
 - Git
 
 ---
 
 ### 📚 Currently learning
-- SQL (PostgreSQL)
 - Java
 - TypeScript (+ Next.js Framework)
+- React.js
 
 ---
 
@@ -84,7 +83,6 @@
 ---
 
 <!--
-![instagram](https://user-images.githubusercontent.com/74461477/125820547-2c92c856-59b7-40ea-802c-796be8ee3c92.png)
 ![discord](https://user-images.githubusercontent.com/74461477/125820556-58470afc-206e-4b9b-8684-1707e637c253.png)
 ![twitter](https://user-images.githubusercontent.com/74461477/125820562-2e7cf54d-355b-4ce4-a95b-072fc76799ec.png)
 ![linkedin](https://user-images.githubusercontent.com/74461477/139423303-d8791117-ba5a-4f5f-8f32-2f6c7f87047d.png)
@@ -92,5 +90,4 @@
 
 [discord]: https://discord.com/users/649332192119357460
 [Twitter]: https://twitter.com/KaiserYao
-[instagram]: https://instagram.com/its_toxy_
 [linkedin]: https://linkedin.com/in/yaokaiser
