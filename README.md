@@ -5,7 +5,7 @@
 
 - ✨ Pronouns: he/him
 - 🔭 I’m currently working on many things at the same time
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and React.js
 - 💬 My DMs are open, so feel free to contact me trought Discord or Twitter
 - 📫 How to reach me: Discord ([Namaliboy#9852](https://discord.com/users/649332192119357460)), Twitter ([@KaiserYao](https://twitter.com/KaiserYao)), Email ([y@yao.earth](mailto:y@yao.earth))
 
