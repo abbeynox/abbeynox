@@ -6,18 +6,18 @@
 - ✨ Pronouns: he/him
 - 🔭 I’m currently working on many things at the same time
 - 🌱 I’m currently learning Java and React.js
-- 💬 My DMs are open, so feel free to contact me trought Discord or Twitter
-- 📫 How to reach me: Discord ([Namaliboy#9852](https://discord.com/users/649332192119357460)), Twitter ([@KaiserYao](https://twitter.com/KaiserYao)), Email ([y@yao.earth](mailto:y@yao.earth))
+- 💬 My DMs are open, so feel free to contact me trought Twitter or Threema.
+- 📫 How to reach me: Threema ([ZV2A3CMD](https://threema.id/ZV2A3CMD)), Twitter ([@KaiserYao](https://twitter.com/KaiserYao)), Email ([yao@ywk.ch](mailto:yao@ywk.ch))
 
 ---
 
 ### 📱 Other Social Media
 
-
+<!--
 [![](https://discord.c99.nl/widget/theme-4/649332192119357460.png)](https://discord.com/users/649332192119357460)
+-->
 
 
-[<img align="left" alt="Discord" width="25px" src="https://user-images.githubusercontent.com/74461477/125820556-58470afc-206e-4b9b-8684-1707e637c253.png"/>][discord]
 [<img align="left" alt="Twitter" width="25px" src="https://user-images.githubusercontent.com/74461477/125820562-2e7cf54d-355b-4ce4-a95b-072fc76799ec.png"/>][twitter]
 [<img align="left" alt="Linkedin" width="25px" src="https://user-images.githubusercontent.com/74461477/139423303-d8791117-ba5a-4f5f-8f32-2f6c7f87047d.png"/>][linkedin]
 
@@ -86,8 +86,9 @@
 ![discord](https://user-images.githubusercontent.com/74461477/125820556-58470afc-206e-4b9b-8684-1707e637c253.png)
 ![twitter](https://user-images.githubusercontent.com/74461477/125820562-2e7cf54d-355b-4ce4-a95b-072fc76799ec.png)
 ![linkedin](https://user-images.githubusercontent.com/74461477/139423303-d8791117-ba5a-4f5f-8f32-2f6c7f87047d.png)
+![threema](https://user-images.githubusercontent.com/74461477/158211211-19b7592c-86da-446b-8be5-976fbc0d3fdd.png)
 -->
 
-[discord]: https://discord.com/users/649332192119357460
 [Twitter]: https://twitter.com/KaiserYao
 [linkedin]: https://linkedin.com/in/yaokaiser
+[threema]: https://threema.id/ZV2A3CMD
