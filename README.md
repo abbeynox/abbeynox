@@ -20,7 +20,8 @@
 
 [<img align="left" alt="Twitter" width="25px" src="https://user-images.githubusercontent.com/74461477/125820562-2e7cf54d-355b-4ce4-a95b-072fc76799ec.png"/>][twitter]
 [<img align="left" alt="Linkedin" width="25px" src="https://user-images.githubusercontent.com/74461477/139423303-d8791117-ba5a-4f5f-8f32-2f6c7f87047d.png"/>][linkedin]
-
+[<img align="left" alt ="Blog" width="25px" src="https://user-images.githubusercontent.com/74461477/159350156-e5db973a-f0b5-4868-a9fe-c82b4e7443be.png"
+/>][Blog]
 <br>
 
 ---
@@ -87,6 +88,7 @@
 ![twitter](https://user-images.githubusercontent.com/74461477/125820562-2e7cf54d-355b-4ce4-a95b-072fc76799ec.png)
 ![linkedin](https://user-images.githubusercontent.com/74461477/139423303-d8791117-ba5a-4f5f-8f32-2f6c7f87047d.png)
 ![threema](https://user-images.githubusercontent.com/74461477/158211211-19b7592c-86da-446b-8be5-976fbc0d3fdd.png)
+
 -->
 
 [Twitter]: https://twitter.com/KaiserYao
