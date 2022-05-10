@@ -6,8 +6,8 @@
 - ✨ Pronouns: he/him
 - 🔭 I’m currently working on many things at the same time
 - 🌱 I’m currently learning Java and React.js
-- 💬 My DMs are open, so feel free to contact me trought Twitter or Threema.
-- 📫 How to reach me: Threema ([ZV2A3CMD](https://threema.id/ZV2A3CMD)), Twitter ([@KaiserYao](https://twitter.com/KaiserYao)), Email ([yao@ywk.ch](mailto:yao@ywk.ch))
+- 💬 My DMs are open, so feel free to contact me trought Mastodon or Threema.
+- 📫 How to reach me: Threema ([ZV2A3CMD](https://threema.id/ZV2A3CMD)), Mastodon ([@yao@mastodon.lol](https://mastodon.lol/@yao)), Email ([yao@ywk.ch](mailto:yao@ywk.ch))
 
 ---
 
@@ -20,8 +20,8 @@
 
 [<img align="left" alt="Twitter" width="25px" src="https://user-images.githubusercontent.com/74461477/125820562-2e7cf54d-355b-4ce4-a95b-072fc76799ec.png"/>][twitter]
 [<img align="left" alt="Linkedin" width="25px" src="https://user-images.githubusercontent.com/74461477/139423303-d8791117-ba5a-4f5f-8f32-2f6c7f87047d.png"/>][linkedin]
-[<img align="left" alt="Blog" width="25px" src="https://user-images.githubusercontent.com/74461477/159350441-b98b101e-27b0-4587-90fe-f26b5a6d70b7.png"
-/>][Blog]
+[<img align="left" alt="Mastodon" width="25px" src="https://user-images.githubusercontent.com/74461477/159350441-b98b101e-27b0-4587-90fe-f26b5a6d70b7.png"
+/>][Mastodon]
 <br>
 
 ---
@@ -30,7 +30,7 @@
 - Python
 - Java
 - HTML, CSS (Bootstrap, TailwindCSS)
-- Javascript, Typescript, Node.js, Vue.js (Express)
+- Javascript, Typescript, React.js, Node.js, Vue.js (Express)
 - MariaDB, MongoDB
 - Git
 
@@ -95,4 +95,4 @@
 [Twitter]: https://twitter.com/KaiserYao
 [linkedin]: https://linkedin.com/in/yaokaiser
 [threema]: https://threema.id/ZV2A3CMD
-[blog]: https://blog.yao.earth
+[Mastodon]: https://mastodon.lol/@yao
