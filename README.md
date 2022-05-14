@@ -11,7 +11,7 @@
 
 ---
 
-### 📱 Other Social Media #Fediverse ([#Fediverse](https://fediverse.info))
+### 📱 Other Social Media [#Fediverse](https://fediverse.info)
 
 
 [<img align="left" alt="Mastodon" width="25px" src="https://user-images.githubusercontent.com/74461477/168441888-e1075b30-1b36-47fd-9db8-38ae774d80e2.png"
