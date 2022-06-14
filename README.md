@@ -67,11 +67,11 @@
 	- Mainboard ⮞ [Intel Z590](https://ark.intel.com/content/www/us/en/ark/products/196612/intel-z590-chipset.html)
 	- Storage ⮞ [Samsung 970 EVO Plus NVMe M.2 SSD 1TB](https://www.samsung.com/uk/memory-storage/nvme-ssd/970-evo-plus-nvme-m-2-ssd-1tb-mz-v7s1t0bw)
 	
--[Peripheral Devices](#usage)
-	- Mouse ⮞ Logitech g502 lightspeed
-	- Keyboard ⮞ Logitech G G915 Lightspeed GL Tactile
-	- Headset ⮞ RAZER Kraken - Kitty Black Edition
-	- Mic ⮞ Shure MV7
+- [Peripheral Devices](#usage)
+	- Mouse ⮞ [Logitech g502 lightspeed](https://www.logitechg.com/en-ch/products/gaming-mice/g502-lightspeed-wireless-gaming-mouse.910-005567.html)
+	- Keyboard ⮞ [Logitech G G915 Lightspeed GL Tactile](https://www.logitechg.com/en-ch/products/gaming-keyboards/g915-low-profile-wireless-mechanical-gaming-keyboard.html)
+	- Headset ⮞ [RAZER Kraken - Kitty Black Edition](https://www.razer.com/gaming-headsets/razer-kraken-kitty)
+	- Mic ⮞ [Shure MV7](https://www.shure.com/en-US/products/microphones/mv7)
 </details>
 
 ---
