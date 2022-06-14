@@ -36,7 +36,7 @@
 ### 📚 Currently learning
 - Java
 - TypeScript (+ Next.js Framework)
-- React.js
+- React.js, Vue.js
 
 ---
 
@@ -58,7 +58,20 @@
 
 - [Notebooks](#usage)
 	- [Huawei MateBook Pro X](https://consumer.huawei.com/ch/laptops/matebook-x-pro-2020/)
-	- [Apple MacBook Air](https://www.apple.com/macbook-air/)
+	- [Apple MacBook Air M1 13.3”](https://www.apple.com/macbook-air/)
+	
+- [PC](#usage)
+	- CPU ⮞ [Intel Core i9-11900KF](https://ark.intel.com/content/www/us/en/ark/products/212321/intel-core-i911900kf-processor-16m-cache-up-to-5-30-ghz.html)
+	- GPU ⮞ [GeForce RTX 3080](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3080-3080ti)
+	- Memory (RAM) ⮞ [Corsair Vengeance RGB Pro 32GB DDR4-3600](https://www.corsair.com/uk/en/Categories/Products/Memory/Vengeance-PRO-RGB-Black/p/CMW32GX4M2D3600C18)
+	- Mainboard ⮞ [Intel Z590](https://ark.intel.com/content/www/us/en/ark/products/196612/intel-z590-chipset.html)
+	- Storage ⮞ [Samsung 970 EVO Plus NVMe M.2 SSD 1TB](https://www.samsung.com/uk/memory-storage/nvme-ssd/970-evo-plus-nvme-m-2-ssd-1tb-mz-v7s1t0bw)
+	
+-[Peripheral Devices](#usage)
+	- Mouse ⮞ Logitech g502 lightspeed
+	- Keyboard ⮞ Logitech G G915 Lightspeed GL Tactile
+	- Headset ⮞ RAZER Kraken - Kitty Black Edition
+	- Mic ⮞ Shure MV7
 </details>
 
 ---
