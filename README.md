@@ -2,7 +2,7 @@
 ## Hey, I'm [Yao](https://yao.earth) 👋
 <!-- [![alt text][1.1]][1]-->
 
-
+### 🌎 [Website](https://yao.earth) | 📄 [Documentation](https://docs.yaokaiser.dev)
 - ✨ Pronouns: he/him
 - 🔭 I’m currently working on many things at the same time
 - 🌱 I’m currently learning Java and React.js
