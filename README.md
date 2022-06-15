@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on many things at the same time
 - 🌱 I’m currently learning Java and React.js
 - 💬 My DMs are open, so feel free to contact me trought the contact options below. 
-- 📫 How to reach me: Threema ([ZV2A3CMD](https://threema.id/ZV2A3CMD)), Mastodon ([@yao@mastodon.lol](https://mastodon.lol/@yao)), Matrix ([@kaiseryao:matrix.org](https://matrix.to/#/@kaiseryao:matrix.org)), Email ([yao@ywk.ch](mailto:yao@ywk.ch))
+- 📫 How to reach me: Threema ([ZV2A3CMD](https://threema.id/ZV2A3CMD)), Mastodon ([@yao@mastodon.lol](https://mastodon.lol/@yao)), Matrix ([@kaiseryao:matrix.org](https://matrix.to/#/@kaiseryao:matrix.org)), Email ([hi@namali.me](mailto:hi@namali.me))
 
 ---
 
