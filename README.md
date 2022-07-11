@@ -1,5 +1,5 @@
 
-## Hey, I'm [Yao](https://yao.earth) 👋
+## Hey, I'm [Namali](https://namali.me) 👋
 <!-- [![alt text][1.1]][1]-->
 
 ### 🌎 [Website](https://yao.earth) | 📄 [Documentation](https://docs.yaokaiser.dev)
@@ -17,7 +17,6 @@
 [<img align="left" alt="Mastodon" width="25px" src="https://user-images.githubusercontent.com/74461477/168441888-e1075b30-1b36-47fd-9db8-38ae774d80e2.png"
 />][mastodon]
 [<img align="left" alt="Pixelfed" width="25px" src="https://user-images.githubusercontent.com/74461477/168441889-2c12cfae-2696-4c5e-9a97-df4653d95c59.png"/>][pixelfed]
-[<img align="left" alt="Linkedin" width="25px" src="https://user-images.githubusercontent.com/74461477/168441886-5200ba4a-98fd-4a51-ac78-f80d5c05ed9f.png"/>][linkedin]
 [<img align="left" alt="Matrix" width="25px" src="https://user-images.githubusercontent.com/74461477/168441999-77524938-bdd3-4307-b8a2-ca5cefd0e7b8.png"/>][matrix]
 <br>
 
@@ -58,7 +57,6 @@
 
 - [Notebooks](#usage)
 	- [Huawei MateBook Pro X](https://consumer.huawei.com/ch/laptops/matebook-x-pro-2020/)
-	- [Apple MacBook Air M1 13.3”](https://www.apple.com/macbook-air/)
 	
 - [PC](#usage)
 	- CPU ⮞ [Intel Core i9-11900KF](https://ark.intel.com/content/www/us/en/ark/products/212321/intel-core-i911900kf-processor-16m-cache-up-to-5-30-ghz.html)
@@ -101,8 +99,7 @@
 ![matrix](https://user-images.githubusercontent.com/74461477/168441999-77524938-bdd3-4307-b8a2-ca5cefd0e7b8.png)
 -->
 
-[linkedin]: https://yao.earth/linkedin
 [threema]: https://threema.id/ZV2A3CMD
-[Mastodon]: https://yao.earth/mastodon
-[matrix]: https://yao.earth/matrix
-[pixelfed]: https://yao.earth/pixelfed
+[Mastodon]: https://mastodon.lol/@yao
+[matrix]: https://matrix.to/#/@kaiseryao:matrix.org
+[pixelfed]: https://pixelfed.social/yao
