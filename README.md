@@ -1,5 +1,5 @@
 
-## Hey, I'm [Namali](https://namali.me) 👋
+## Hey, I'm [Abbey](https://yao..earth/abbeynox) 👋
 <!-- [![alt text][1.1]][1]-->
 
 ### 🌎 [Website](https://yao.earth) | 📄 [Documentation](https://docs.yaokaiser.dev)
@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on many things at the same time
 - 🌱 I’m currently learning Java and React.js
 - 💬 My DMs are open, so feel free to contact me trought the contact options below. 
-- 📫 How to reach me: Threema ([ZV2A3CMD](https://threema.id/ZV2A3CMD)), Mastodon ([@yao@mastodon.lol](https://mastodon.lol/@yao)), Matrix ([@kaiseryao:matrix.org](https://matrix.to/#/@kaiseryao:matrix.org)), Email ([hi@namali.me](mailto:hi@namali.me))
+- 📫 How to reach me: Threema ([ZV2A3CMD](https://threema.id/ZV2A3CMD)), Mastodon ([@yao@mastodon.lol](https://mastodon.lol/@yao)), Email ([abbey@ywk.ch](mailto:abbey@ywk.ch))
 
 ---
 
@@ -29,6 +29,7 @@
 - Javascript, Typescript, React.js, Node.js, Vue.js (Express)
 - MariaDB, MongoDB
 - Git
+- C# (ASP.NET)
 
 ---
 
