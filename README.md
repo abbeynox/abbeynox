@@ -88,8 +88,7 @@
 <details>
   <summary>📈 WakaTime</summary>
   <br>
-  <a href="https://wakatime.com/@abbeynox">
-  <img src="https://wakatime.com/share/@abbeynox/badge.svg" alt="Wakatime stats" style="height: 30px;">
+  <figure><embed src="https://wakatime.com/share/@abbeynox/8797f27e-6e73-4c46-8fe2-acd8c6536bed.svg"></embed></figure>
   </a>
 
 </details>
