@@ -75,7 +75,7 @@
 
 ---
 
-### 📊 Stats
+### 📊 Coding Stats
 
 <!-- https://github-readme-stats.vercel.app/api?username=kaiseryao&show_icons=true&theme=cobalt -->
 
@@ -86,9 +86,12 @@
 </details>
 
 <details>
-  <summary>📈 Most used languages</summary>
+  <summary>📈 WakaTime</summary>
   <br>
-  <img align="center" alt="kaiseryao's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiseryao&langs_count=8&theme=cobalt" />
+  <a href="https://wakatime.com/@YourUsername">
+  <img src="https://wakatime.com/share/@abbeynox/badge.svg" alt="Wakatime stats" style="height: 30px;">
+  </a>
+
 </details>
 
 ---
