@@ -88,7 +88,7 @@
 <details>
   <summary>📈 WakaTime</summary>
   <br>
-  <a href="https://wakatime.com/@YourUsername">
+  <a href="https://wakatime.com/@abbeynox">
   <img src="https://wakatime.com/share/@abbeynox/badge.svg" alt="Wakatime stats" style="height: 30px;">
   </a>
 
