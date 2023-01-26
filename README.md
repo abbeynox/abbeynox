@@ -7,12 +7,11 @@
 - 🔭 I’m currently working on many things at the same time
 - 🌱 I’m currently learning Java and React.js
 - 💬 My DMs are open, so feel free to contact me trought the contact options below. 
-- 📫 How to reach me: Threema ([ZV2A3CMD](https://threema.id/ZV2A3CMD)), Mastodon ([@yao@mastodon.lol](https://mastodon.lol/@yao)), Email ([abbey@ywk.ch](mailto:abbey@ywk.ch))
+- 📫 How to reach me: Threema ([ZV2A3CMD](https://threema.id/ZV2A3CMD)), Mastodon ([@yao@mastodon.lol](https://mastodon.lol/@yao)), Email ([yao@ywk.ch](mailto:yao@ywk.ch))
 
 ---
 
 ### 📱 Other Social Media [#Fediverse](https://fediverse.info)
-
 
 [<img align="left" alt="Mastodon" width="25px" src="https://user-images.githubusercontent.com/74461477/168441888-e1075b30-1b36-47fd-9db8-38ae774d80e2.png"
 />][mastodon]
@@ -35,7 +34,6 @@
 
 ### 📚 Currently learning
 - Java
-- TypeScript (+ Next.js Framework)
 - React.js, Vue.js
 
 ---
@@ -46,7 +44,6 @@
   <summary>🎛 IDE</summary>
   <p>
     <li> <a href="https://code.visualstudio.com">Visual Studio Code</a> </li>
-    <li> <a href="https://visualstudio.com">Visual Studio</a> </li>
     <li> <a href="https://www.jetbrains.com/de-de/pycharm/download/">PyCharm</a> </li>
     <li> <a href="https://www.jetbrains.com/de-de/idea/">IntelliJ IDEA</a> </li>	  
     <li> <a href="https://dbeaver.com/">DBeaver</a> </li>
