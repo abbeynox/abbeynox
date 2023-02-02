@@ -4,8 +4,8 @@
 
 ### 🌎 [Website](https://yao.earth) | 📄 [Documentation](https://docs.yaokaiser.dev)
 - ✨ Pronouns: he/him
-- 🔭 I’m currently working on many things at the same time
-- 🌱 I’m currently learning Java and React.js
+- 🔭 I’m currently working on a better personal portfolio
+- 🌱 I’m currently learning Python Flask and Java
 - 💬 My DMs are open, so feel free to contact me trought the contact options below. 
 - 📫 How to reach me: Threema ([ZV2A3CMD](https://threema.id/ZV2A3CMD)), Mastodon ([@yao@mastodon.lol](https://mastodon.lol/@yao)), Email ([yao@ywk.ch](mailto:yao@ywk.ch))
 
@@ -15,7 +15,6 @@
 
 [<img align="left" alt="Mastodon" width="25px" src="https://user-images.githubusercontent.com/74461477/168441888-e1075b30-1b36-47fd-9db8-38ae774d80e2.png"
 />][mastodon]
-[<img align="left" alt="Pixelfed" width="25px" src="https://user-images.githubusercontent.com/74461477/168441889-2c12cfae-2696-4c5e-9a97-df4653d95c59.png"/>][pixelfed]
 [<img align="left" alt="Matrix" width="25px" src="https://user-images.githubusercontent.com/74461477/168441999-77524938-bdd3-4307-b8a2-ca5cefd0e7b8.png"/>][matrix]
 <br>
 
@@ -23,18 +22,19 @@
 
 ### ⌨️ Experience with
 - Python
-- Java
+- Java (Spring Boot)
 - HTML, CSS (Bootstrap, TailwindCSS)
 - Javascript, Typescript, React.js, Node.js, Vue.js (Express)
 - MariaDB, MongoDB
 - Git
 - C# (ASP.NET)
+- Docker
 
 ---
 
 ### 📚 Currently learning
 - Java
-- React.js, Vue.js
+- Python Flask
 
 ---
 
@@ -43,9 +43,9 @@
 <details>
   <summary>🎛 IDE</summary>
   <p>
+    <li> <a href="https://www.jetbrains.com/de-de/idea/">IntelliJ IDEA</a> </li>
     <li> <a href="https://code.visualstudio.com">Visual Studio Code</a> </li>
     <li> <a href="https://www.jetbrains.com/de-de/pycharm/download/">PyCharm</a> </li>
-    <li> <a href="https://www.jetbrains.com/de-de/idea/">IntelliJ IDEA</a> </li>	  
     <li> <a href="https://dbeaver.com/">DBeaver</a> </li>
   </p>
 </details>
@@ -102,4 +102,3 @@
 [threema]: https://threema.id/ZV2A3CMD
 [Mastodon]: https://mastodon.lol/@yao
 [matrix]: https://matrix.to/#/@kaiseryao:matrix.org
-[pixelfed]: https://pixelfed.social/yao
