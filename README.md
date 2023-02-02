@@ -11,11 +11,12 @@
 
 ---
 
-### 📱 Other Social Media [#Fediverse](https://fediverse.info)
+### 📱 Reach me trought
 
 [<img align="left" alt="Mastodon" width="25px" src="https://user-images.githubusercontent.com/74461477/168441888-e1075b30-1b36-47fd-9db8-38ae774d80e2.png"
 />][mastodon]
 [<img align="left" alt="Matrix" width="25px" src="https://user-images.githubusercontent.com/74461477/168441999-77524938-bdd3-4307-b8a2-ca5cefd0e7b8.png"/>][matrix]
+[<img align="left" alt="Linkedin" width="25px" src="https://user-images.githubusercontent.com/74461477/216309299-bf9fa9f7-97d0-434e-8547-6dbde7eb40ca.png"/>][linkedin]
 <br>
 
 ---
@@ -95,10 +96,11 @@
 <!--
 ![linkedin](https://user-images.githubusercontent.com/74461477/168441886-5200ba4a-98fd-4a51-ac78-f80d5c05ed9f.png)
 ![mastodon](https://user-images.githubusercontent.com/74461477/168441888-e1075b30-1b36-47fd-9db8-38ae774d80e2.png)
-![pixelfed](https://user-images.githubusercontent.com/74461477/168441889-2c12cfae-2696-4c5e-9a97-df4653d95c59.png)
+![linkedin](https://user-images.githubusercontent.com/74461477/216309299-bf9fa9f7-97d0-434e-8547-6dbde7eb40ca.png)
 ![matrix](https://user-images.githubusercontent.com/74461477/168441999-77524938-bdd3-4307-b8a2-ca5cefd0e7b8.png)
 -->
 
 [threema]: https://threema.id/ZV2A3CMD
 [Mastodon]: https://mastodon.lol/@yao
 [matrix]: https://matrix.to/#/@kaiseryao:matrix.org
+[linkedin]: https://linkedin.com/in/yaokaiser
