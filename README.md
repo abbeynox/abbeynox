@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a better personal portfolio
 - 🌱 I’m currently learning Python Flask and Java
 - 💬 My DMs are open, so feel free to contact me trought the contact options below. 
-- 📫 How to reach me: Threema ([ZV2A3CMD](https://threema.id/ZV2A3CMD)), Mastodon ([@yao@mastodon.lol](https://mastodon.social/@abbeynox)), Email ([yao@ywk.ch](mailto:yao@ywk.ch))
+- 📫 How to reach me: Threema ([ZV2A3CMD](https://threema.id/ZV2A3CMD)), Mastodon ([@abbeynox@mastodon.social](https://mastodon.social/@abbeynox)), Email ([yao@ywk.ch](mailto:yao@ywk.ch))
 
 ---
 
