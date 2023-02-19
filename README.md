@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a better personal portfolio
 - 🌱 I’m currently learning Python Flask and Java
 - 💬 My DMs are open, so feel free to contact me trought the contact options below. 
-- 📫 How to reach me: Threema ([ZV2A3CMD](https://threema.id/ZV2A3CMD)), Mastodon ([@yao@mastodon.lol](https://mastodon.lol/@yao)), Email ([yao@ywk.ch](mailto:yao@ywk.ch))
+- 📫 How to reach me: Threema ([ZV2A3CMD](https://threema.id/ZV2A3CMD)), Mastodon ([@yao@mastodon.lol](https://mastodon.social/@abbeynox)), Email ([yao@ywk.ch](mailto:yao@ywk.ch))
 
 ---
 
@@ -22,7 +22,7 @@
 ---
 
 ### ⌨️ Experience with
-- Python
+- Python (Flask)
 - Java (Spring Boot)
 - HTML, CSS (Bootstrap, TailwindCSS)
 - Javascript, Typescript, React.js, Node.js, Vue.js (Express)
@@ -101,6 +101,6 @@
 -->
 
 [threema]: https://threema.id/ZV2A3CMD
-[Mastodon]: https://mastodon.lol/@yao
+[Mastodon]: https://mastodon.social/@abbeynox
 [matrix]: https://matrix.to/#/@kaiseryao:matrix.org
 [linkedin]: https://linkedin.com/in/yaokaiser
