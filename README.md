@@ -1,5 +1,5 @@
 
-## Hey, I'm [Abbey](https://yao.earth) 👋
+## Hey, I'm [Abbey](https://yao.earth) 🤘🏽
 <!-- [![alt text][1.1]][1]-->
 
 ### 🌎 [Website](https://yao.earth) | 📄 [Documentation](https://docs.yaokaiser.dev)
