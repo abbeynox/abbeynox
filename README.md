@@ -1,13 +1,13 @@
 
-## Hey, I'm [Abbey](https://yao.earth) 🤘🏽
+## Hey, I'm [Abbey](https://abbeynox.com) 🤘🏽
 <!-- [![alt text][1.1]][1]-->
 
-### 🌎 [Website](https://yao.earth) | 📄 [Documentation](https://docs.yaokaiser.dev)
+### 🌎 [Website](https://abbeynox.com) | 📄 [Documentation](https://docs.yaokaiser.dev)
 - ✨ Pronouns: currently he/him
 - 🔭 I’m working on a better personal portfolio
 - 🌱 I’m learning Python Flask and Java
 - 💬 My DMs are open, so feel free to contact me trought the contact options below. 
-- 📫 How to reach me: Threema ([ZV2A3CMD](https://threema.id/ZV2A3CMD)), Mastodon ([@abbeynox@mastodon.social](https://mastodon.social/@abbeynox)), Email ([yao@ywk.ch](mailto:yao@ywk.ch))
+- 📫 How to reach me: Threema ([ZV2A3CMD](https://threema.id/ZV2A3CMD)), Mastodon ([@abbeynox@mastodon.social](https://mastodon.social/@abbeynox)), Email ([yao@ywk.ch](mailto:me@abbeynox.com))
 
 ---
 
@@ -80,7 +80,7 @@
 <details>
   <summary>⚡️ Github Stats</summary>
   <br>
-  <img align="center" alt="kaiseryao's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=kaiseryao&show_icons=true&theme=cobalt" />
+  <img align="center" alt="abbey's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abbeynox&show_icons=true&theme=cobalt" />
 </details>
 
 <details>
