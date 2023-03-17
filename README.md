@@ -2,12 +2,12 @@
 ## Hey, I'm [Abbey](https://abbeynox.com) 🤘🏽
 <!-- [![alt text][1.1]][1]-->
 
-### 🌎 [Website](https://abbeynox.com) | 📄 [Documentation](https://docs.yaokaiser.dev)
+### 🌎 [Website](https://abbeynox.com) | 📄 [Documentation](https://docs.abbeynox.com)
 - ✨ Pronouns: currently he/him
 - 🔭 I’m working on a better personal portfolio
 - 🌱 I’m learning Python Flask and Java
 - 💬 My DMs are open, so feel free to contact me trought the contact options below. 
-- 📫 How to reach me: Threema ([ZV2A3CMD](https://threema.id/ZV2A3CMD)), Mastodon ([@abbeynox@mastodon.social](https://mastodon.social/@abbeynox)), Email ([yao@ywk.ch](mailto:me@abbeynox.com))
+- 📫 How to reach me: Threema ([ZV2A3CMD](https://threema.id/ZV2A3CMD)), Mastodon ([@abbeynox@mastodon.social](https://mastodon.social/@abbeynox)), Email ([me@abbeynox.com](mailto:me@abbeynox.com))
 
 ---
 
@@ -45,8 +45,9 @@
   <summary>🎛 IDE</summary>
   <p>
     <li> <a href="https://www.jetbrains.com/de-de/idea/">IntelliJ IDEA</a> </li>
-    <li> <a href="https://code.visualstudio.com">Visual Studio Code</a> </li>
+    <li> <a href="https://www.jetbrains.com/webstorm/">WebStorm</a> </li>
     <li> <a href="https://www.jetbrains.com/de-de/pycharm/download/">PyCharm</a> </li>
+    <li> <a href="https://code.visualstudio.com">Visual Studio Code</a> </li>
     <li> <a href="https://dbeaver.com/">DBeaver</a> </li>
   </p>
 </details>
