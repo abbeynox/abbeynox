@@ -30,6 +30,7 @@
 - Git
 - C# (ASP.NET)
 - Docker
+- Bash
 
 ---
 
