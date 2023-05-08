@@ -16,7 +16,6 @@
 [<img align="left" alt="Mastodon" width="25px" src="https://user-images.githubusercontent.com/74461477/168441888-e1075b30-1b36-47fd-9db8-38ae774d80e2.png"
 />][mastodon]
 [<img align="left" alt="Matrix" width="25px" src="https://user-images.githubusercontent.com/74461477/168441999-77524938-bdd3-4307-b8a2-ca5cefd0e7b8.png"/>][matrix]
-[<img align="left" alt="Linkedin" width="25px" src="https://user-images.githubusercontent.com/74461477/216309299-bf9fa9f7-97d0-434e-8547-6dbde7eb40ca.png"/>][linkedin]
 <br>
 
 ---
@@ -75,34 +74,13 @@
 
 ---
 
-### 📊 Coding Stats
-
-<!-- https://github-readme-stats.vercel.app/api?username=kaiseryao&show_icons=true&theme=cobalt -->
-
-<details>
-  <summary>⚡️ Github Stats</summary>
-  <br>
-  <img align="center" alt="abbey's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=abbeynox&show_icons=true&theme=cobalt" />
-</details>
-
-<details>
-  <summary>📈 WakaTime</summary>
-  <br>
-  <figure><embed src="https://wakatime.com/share/@abbeynox/8797f27e-6e73-4c46-8fe2-acd8c6536bed.svg"></embed></figure>
-  </a>
-
-</details>
-
----
 
 <!--
 ![linkedin](https://user-images.githubusercontent.com/74461477/168441886-5200ba4a-98fd-4a51-ac78-f80d5c05ed9f.png)
 ![mastodon](https://user-images.githubusercontent.com/74461477/168441888-e1075b30-1b36-47fd-9db8-38ae774d80e2.png)
-![linkedin](https://user-images.githubusercontent.com/74461477/216309299-bf9fa9f7-97d0-434e-8547-6dbde7eb40ca.png)
 ![matrix](https://user-images.githubusercontent.com/74461477/168441999-77524938-bdd3-4307-b8a2-ca5cefd0e7b8.png)
 -->
 
 [threema]: https://threema.id/ZV2A3CMD
 [Mastodon]: https://mastodon.social/@abbeynox
 [matrix]: https://matrix.to/#/@kaiseryao:matrix.org
-[linkedin]: https://linkedin.com/in/yaokaiser
