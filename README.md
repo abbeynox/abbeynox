@@ -5,7 +5,7 @@
 ### 🌎 [Website](https://abbeynox.com) | 📄 [Documentation](https://docs.abbeynox.com)
 - ✨ Pronouns: currently he/him
 - 🔭 I’m working on a better personal portfolio
-- 🌱 I’m learning Python Flask and Java
+- 🌱 I’m learning Kubernetes and Java
 - 💬 My DMs are open, so feel free to contact me trought the contact options below. 
 - 📫 How to reach me: Threema ([ZV2A3CMD](https://threema.id/ZV2A3CMD)), Mastodon ([@abbeynox@mastodon.social](https://mastodon.social/@abbeynox)), Email ([me@abbeynox.com](mailto:me@abbeynox.com))
 
