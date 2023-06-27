@@ -3,7 +3,6 @@
 <!-- [![alt text][1.1]][1]-->
 
 ### 🌎 [Website](https://abbeynox.com) | 📄 [Documentation](https://docs.abbeynox.com)
-- ✨ Pronouns: currently he/him
 - 🔭 I’m working on a better personal portfolio
 - 🌱 I’m learning Kubernetes and Java
 - 💬 My DMs are open, so feel free to contact me trought the contact options below. 
