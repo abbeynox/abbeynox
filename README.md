@@ -3,7 +3,7 @@
 <!-- [![alt text][1.1]][1]-->
 
 ### 🌎 [Website](https://abbeynox.com) | 📄 [Documentation](https://docs.abbeynox.com)
-- 🔭 I’m working on a better personal portfolio
+- 🔭 I’m working on a new personal portfolio
 - 🌱 I’m learning Kubernetes and Java
 - 💬 My DMs are open, so feel free to contact me trought the contact options below. 
 - 📫 How to reach me: Threema ([ZV2A3CMD](https://threema.id/ZV2A3CMD)), Mastodon ([@abbeynox@mastodon.social](https://mastodon.social/@abbeynox)), Email ([me@abbeynox.com](mailto:me@abbeynox.com))
@@ -34,7 +34,7 @@
 
 ### 📚 Currently learning
 - Java
-- Python Flask
+- Kubernetes
 
 ---
 
@@ -54,10 +54,12 @@
 <details>
   <summary>🖥 Setup</summary>
 
-- [Notebooks](#usage)
-	- [Huawei MateBook Pro X](https://consumer.huawei.com/ch/laptops/matebook-x-pro-2020/)
+- [Notebook](#usage)
+	- Model ⮞ [Huawei MateBook Pro X](https://consumer.huawei.com/ch/laptops/matebook-x-pro-2020/)
+	- OS ⮞ [Manjaro Linux with KDE Plasma](https://manjaro.org/)
 	
 - [PC](#usage)
+  	- OS ⮞ [Manjaro Linux with KDE Plasma](https://manjaro.org/)
 	- CPU ⮞ [Intel Core i9-11900KF](https://ark.intel.com/content/www/us/en/ark/products/212321/intel-core-i911900kf-processor-16m-cache-up-to-5-30-ghz.html)
 	- GPU ⮞ [GeForce RTX 3080](https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3080-3080ti)
 	- Memory (RAM) ⮞ [Corsair Vengeance RGB Pro 32GB DDR4-3600](https://www.corsair.com/uk/en/Categories/Products/Memory/Vengeance-PRO-RGB-Black/p/CMW32GX4M2D3600C18)
