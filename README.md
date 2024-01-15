@@ -4,7 +4,7 @@
 
 ### 🚆 [Blog](https://abbeynox.com) | 📄 [Dokumentation](https://docs.abbeynox.com)
 - 🔭 Ich orientiere mich komplett neu 🌟
-- 💬 Erreiche mich auf: Threema ([ZV2A3CMD](https://threema.id/ZV2A3CMD)), Bluesky ([@abbeynox.com](https://bsky.app/profile/abbeynox.com)), Email ([me@abbeynox.com](mailto:me@abbeynox.com))
+- 💬 Erreiche mich auf: Threema ([ZV3CW99K](https://threema.id/ZV3CW99K)), Bluesky ([@abbey.blue](http://bsky.app/profile/abbey.blue)), Email ([me@abbeynox.com](mailto:me@abbeynox.com))
 - ❤️ Hamburg, alles auf Schienen, Subkulturen und die Welt der [Musik](https://abbeynox.com/music).
 ---
 
